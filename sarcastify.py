@@ -1,5 +1,5 @@
 from typing import Iterator
-import click
+#import click
 import sys
 
 from looksRandom import looksRandom
